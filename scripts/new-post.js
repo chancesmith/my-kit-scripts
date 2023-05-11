@@ -33,10 +33,16 @@ let dashedDate = `${year}-${month}-${day}`;
 let blogDate = dashedDate + "T22Z";
 
 let frontmatter = `---
-title: ${title}
+layout: post
+title: "${title}"
 date: ${blogDate}
 tags: 
----`;
+---
+
+// INTRO HERE
+
+## The point is
+`;
 
 // create the folder by title with lowercase and hyphenated
 let folder = title.toLowerCase().replace(/ /g, "-");
