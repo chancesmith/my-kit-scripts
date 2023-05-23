@@ -1,4 +1,4 @@
-// Users/chance.smith/.kenv/kenvs/shared-kenv/scripts/text-manipulation.ts
+// .kenv/kenvs/shared-kenv/scripts/text-manipulation.ts
 import "@johnlindquist/kit";
 var transformations = {
   upperCase: (text) => text.toUpperCase(),

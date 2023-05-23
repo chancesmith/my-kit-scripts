@@ -1,4 +1,4 @@
-// Users/chance.smith/.kenv/kenvs/shared-kenv/scripts/daily-note.ts
+// .kenv/kenvs/shared-kenv/scripts/daily-note.ts
 import "@johnlindquist/kit";
 import { homedir } from "os";
 import { join as joinPath } from "path";

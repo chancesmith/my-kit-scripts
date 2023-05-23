@@ -1,4 +1,4 @@
-// Users/chance.smith/.kenv/kenvs/shared-kenv/scripts/open-recent-vs-code-project.ts
+// .kenv/kenvs/shared-kenv/scripts/open-recent-vs-code-project.ts
 import "@johnlindquist/kit";
 import { URL, fileURLToPath } from "url";
 var filename = home("Library", "Application Support", "Code", "User", "globalStorage", "state.vscdb");
